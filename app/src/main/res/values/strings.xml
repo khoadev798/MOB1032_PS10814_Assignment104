@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MOB1032_Assignment104</string>
+    <string-array name="class_array">
+        <item>Choose a class!</item>
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+</resources>
